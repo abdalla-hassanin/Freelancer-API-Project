@@ -1,0 +1,12 @@
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Data\bin\Debug\net8.0\FreelancerApiProject.Data.deps.json
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Data\bin\Debug\net8.0\FreelancerApiProject.Data.dll
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Data\bin\Debug\net8.0\FreelancerApiProject.Data.pdb
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Data\obj\Debug\net8.0\FreelancerApiProject.Data.csproj.AssemblyReference.cache
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Data\obj\Debug\net8.0\FreelancerApiProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Data\obj\Debug\net8.0\FreelancerApiProject.Data.AssemblyInfoInputs.cache
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Data\obj\Debug\net8.0\FreelancerApiProject.Data.AssemblyInfo.cs
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Data\obj\Debug\net8.0\FreelancerApiProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Data\obj\Debug\net8.0\FreelancerApiProject.Data.dll
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Data\obj\Debug\net8.0\refint\FreelancerApiProject.Data.dll
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Data\obj\Debug\net8.0\FreelancerApiProject.Data.pdb
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Data\obj\Debug\net8.0\ref\FreelancerApiProject.Data.dll

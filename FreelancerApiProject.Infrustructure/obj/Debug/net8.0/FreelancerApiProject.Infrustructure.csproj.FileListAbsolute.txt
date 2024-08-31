@@ -1,0 +1,17 @@
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\bin\Debug\net8.0\FreelancerApiProject.Infrustructure.deps.json
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\bin\Debug\net8.0\FreelancerApiProject.Infrustructure.runtimeconfig.json
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\bin\Debug\net8.0\FreelancerApiProject.Infrustructure.dll
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\bin\Debug\net8.0\FreelancerApiProject.Infrustructure.pdb
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\bin\Debug\net8.0\FreelancerApiProject.Data.dll
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\bin\Debug\net8.0\FreelancerApiProject.Data.pdb
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\obj\Debug\net8.0\FreelancerApiProject.Infrustructure.csproj.AssemblyReference.cache
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\obj\Debug\net8.0\FreelancerApiProject.Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\obj\Debug\net8.0\FreelancerApiProject.Infrustructure.AssemblyInfoInputs.cache
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\obj\Debug\net8.0\FreelancerApiProject.Infrustructure.AssemblyInfo.cs
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\obj\Debug\net8.0\FreelancerApiProject.Infrustructure.csproj.CoreCompileInputs.cache
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\obj\Debug\net8.0\Freelanc.4F486EE3.Up2Date
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\obj\Debug\net8.0\FreelancerApiProject.Infrustructure.dll
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\obj\Debug\net8.0\refint\FreelancerApiProject.Infrustructure.dll
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\obj\Debug\net8.0\FreelancerApiProject.Infrustructure.pdb
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\obj\Debug\net8.0\FreelancerApiProject.Infrustructure.genruntimeconfig.cache
+C:\Users\abdal\source\repos\LearningProjects\FreelancerApiProject\FreelancerApiProject.Infrustructure\obj\Debug\net8.0\ref\FreelancerApiProject.Infrustructure.dll
