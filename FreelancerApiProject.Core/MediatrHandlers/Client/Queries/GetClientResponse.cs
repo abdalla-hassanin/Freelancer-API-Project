@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations.Schema;
+using FreelancerApiProject.Core.MediatrHandlers.Job.Queries;
 using FreelancerApiProject.Core.MediatrHandlers.Project.Queries;
 using FreelancerApiProject.Core.MediatrHandlers.Skill.Queries;
 using FreelancerApiProject.Data.Entities;
@@ -22,13 +23,10 @@ public class GetClientResponse
 
     public string? Phone { get; set; }
 
-    //TODO uncomment this when make GetJobResponse
- //   public List<GetJobResponse>? Jobs { get; set; } = [];
+   public List<GetJobResponse>? Jobs { get; set; } = [];
 
-    // [NotMapped]
-    // public int JobsCount => Jobs.Count;
+   [NotMapped] public int JobsCount => Jobs.Count;
 
-    // [NotMapped]
-    // public int CompletedJobsCount => Jobs.Count(j => j.Status == JobStatusEnum.Closed);
-    //
+   [NotMapped] public int CompletedJobsCount => Jobs.Count(j => j.Status == JobStatusEnum.Closed);
+    
 }

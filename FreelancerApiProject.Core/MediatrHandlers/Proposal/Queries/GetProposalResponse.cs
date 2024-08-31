@@ -1,4 +1,5 @@
 using FreelancerApiProject.Core.MediatrHandlers.Freelancer.Queries;
+using FreelancerApiProject.Core.MediatrHandlers.Job.Queries;
 using FreelancerApiProject.Data.Entities;
 using FreelancerApiProject.Data.Enums;
 
@@ -32,6 +33,5 @@ public class GetProposalResponse
     public int JobId { get; set; }
 
     
-    //TODO : Add Job Response here 
-   // public GetJobResponse Job { get; set; }
+   public GetJobResponse Job { get; set; }
 }
